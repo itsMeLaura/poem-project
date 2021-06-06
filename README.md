@@ -1,3 +1,3 @@
 # poem-project
 
-The light and the dark are shado clothing.
+The light and the dark are shadow clothing.
